@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 804e0aa4b7f7d4e4cace0b471dde0a1f
+timeCreated: 1459088770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: horse_0
+    21300002: horse_1
+    21300004: horse_2
+    21300006: horse_3
+    21300008: horse_4
+    21300010: horse_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horse_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 443
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+      - - {x: -13, y: -8}
+        - {x: -13, y: -13}
+        - {x: -12, y: -14}
+        - {x: -13, y: -13}
+      - - {x: -3, y: -10}
+        - {x: 0, y: -13}
+        - {x: -3, y: -14}
+        - {x: -2, y: -13}
+      - - {x: 14, y: -6}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 13, y: 4}
+        - {x: 15, y: 6}
+        - {x: 14, y: 7}
+        - {x: 13, y: -13}
+      - - {x: -9, y: -1}
+        - {x: 0, y: 4}
+        - {x: 6, y: 5}
+        - {x: 5, y: -3}
+      - - {x: -13, y: 13}
+        - {x: -10, y: 12}
+        - {x: -14, y: 8}
+        - {x: -13, y: 8}
+      tessellationDetail: 0
+    - name: horse_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 371
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 53}
+        - {x: -48, y: -53}
+        - {x: 48, y: -53}
+        - {x: 48, y: 53}
+      - - {x: -44, y: 49}
+        - {x: 44, y: 49}
+        - {x: 44, y: -49}
+        - {x: -44, y: -49}
+      tessellationDetail: 0
+    - name: horse_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 360
+        width: 200
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline:
+      - - {x: -100, y: 64}
+        - {x: -100, y: -64}
+        - {x: 100, y: -64}
+        - {x: 100, y: 64}
+      tessellationDetail: 0
+    - name: horse_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 311
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51386213, y: 0.4908259}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline:
+      - - {x: -17.471313, y: 17.31192}
+        - {x: -17.471313, y: -16.68808}
+        - {x: 16.528687, y: -16.68808}
+        - {x: 16.528687, y: 17.31192}
+      tessellationDetail: 0
+    - name: horse_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 180
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 54}
+        - {x: -90, y: -54}
+        - {x: 90, y: -54}
+        - {x: 90, y: 54}
+      tessellationDetail: 0
+    - name: horse_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 17}
+      - - {x: 0, y: -10}
+        - {x: -1, y: -10}
+        - {x: -2, y: -13}
+      - - {x: 14, y: -12}
+        - {x: 14, y: -6}
+        - {x: 12, y: -3}
+        - {x: 12, y: -1}
+        - {x: 8, y: 11}
+        - {x: 5, y: 14}
+        - {x: 1, y: 14}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+        - {x: 12, y: -14}
+        - {x: 13, y: -14}
+      - - {x: 4, y: -5}
+        - {x: 2, y: -3}
+        - {x: -2, y: -2}
+        - {x: -7, y: -6}
+      - - {x: -13, y: 13}
+        - {x: -6, y: 9}
+        - {x: -14, y: 1}
+        - {x: -13, y: 1}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
